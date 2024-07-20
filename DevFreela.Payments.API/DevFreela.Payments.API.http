@@ -1,0 +1,6 @@
+@DevFreela.Payments.API_HostAddress = http://localhost:5145
+
+GET {{DevFreela.Payments.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
